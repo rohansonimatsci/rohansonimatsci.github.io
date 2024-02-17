@@ -1,0 +1,227 @@
+{
+  "basics": {
+    "name": "Rohan Soni",
+    "label": "Material Scientist",
+    "image": "",
+    "email": "rohan.soni@bu.edu",
+    "phone": "(857) 800-4491",
+    "url": "rohansonimatsci.github.io",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "MA 02446",
+      "city": "Boston",
+      "countryCode": "US",
+      "region": "Massachusetts"
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Research Assistant",
+      "position": "Physical Measurement Laboratory, Boston University Photonics Center",
+      "url": "",
+      "startDate": "2021-09",
+      "endDate": "",
+      "summary": "Trained users in field emission scanning electron miscroscopy (FESEM) on different equipment, energy dispersive x-ray spectroscopy (EDS) and thin-film deposition by plasma sputtering.",
+      "highlights": []
+    },
+    {
+      "name": "Research Assistant",
+      "position": "Surface Modification Laboratory, Boston University",
+      "url": "",
+      "startDate": "2019-09",
+      "endDate": "",
+      "summary": "Developed process for optimal gas-nitriding & PVD sputtering to create AlN coating on aluminum alloys. Optimized experimental parameters and the experimental setup for required coating quality. Carried out XRD, EDS, SEM, and Hardness testing of samples to ascertain process feasibility.",
+      "highlights": []
+    },
+    {
+      "name": "Research Assistant",
+      "position": "Low Temperature Laboratory, IIT Guwahati",
+      "url": "",
+      "startDate": "2017-06",
+      "endDate": "2016-08",
+      "summary": "Ascertained electronic and structural effects of NiO doping in Alkaline Niobates for use in new generation capacitors. Prepared bulk ceramic samples via powder synthesis and sol-gel methods, including heat treatments. Conducted dielectric spectroscopy, XRD, TGA, Raman spectroscopy, and FESEM to characterize the doped ceramics.",
+      "highlights": ["Published results in Jour. of Appl. Physics & 3 conferences, won Best poster award (Research Conclave, IITG, 2017)"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Boston University",
+      "location": "Boston, Mass.",
+      "url": "https://www.bu.edu/",
+      "area": "Material Sciences",
+      "studyType": "PhD",
+      "startDate": "2019",
+      "endDate": "2024",
+      "score": "10",
+      "courses": []
+    },
+    {
+      "institution": "Indian Institute of Technology Guwahati",
+      "location": "Guwahati, India",
+      "url": "https://www.iitg.ac.in/",
+      "area": "Engineering Physics",
+      "studyType": "B. Tech.",
+      "startDate": "2013",
+      "endDate": "2017",
+      "score": "10",
+      "courses": []
+    }
+  ],
+  "coursework": [
+    {
+      "name": "Material Science",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Invention: Technology Creation, Protection, and Commercialization",
+        "Simulation of Physical Processes",
+        "Nano-Micro Device Technology",
+        "MEMS-Fabrication & Materials",
+        "Experimental Surface Physics & Chemistry",
+        "Kinetic Processes in Materials",
+        "Transport Phenomena in Materials Science"
+      ]
+    },
+    {
+      "name": "Physics",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Measurement Techniques",
+        "Semiconductor Devices"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Technical Skills",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "CAD Design",
+        "Data plotting and visualization in Origin and MATLAB",
+        "Machine Workshop",
+        "3D Printing"
+      ]
+    },
+    {
+      "name": "Laboratory Skills",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Chemical Vapor Deposition (CVD)",
+        "Physical Vapour Deposition (ion sputtering)",
+        "Thin-films and bulk ceramics preparation",
+        "X-ray diffraction",
+        "Scanning electron microscopy",
+        "Energy dispersive X-ray spectroscopy",
+        "Dielectric spectroscopy"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Native speaker",
+      "icon": ""
+    }
+  ],
+  "memberships": [
+    {
+      "society": "ASM International",
+      "location": "American Society for Metals",
+      "icon": ""
+    },
+    {
+      "society": "Materials Research Society",
+      "location": "",
+      "icon": ""
+    },
+    {
+      "society": "Equinox - Astronomy Club",
+      "location": "IIT Guwahati",
+      "icon": ""
+    },
+    {
+      "society": "UHRC India",
+      "location": "Urban Health Resource Corporation",
+      "icon": ""
+    }
+  ],
+  "experience": [
+    {
+      "name": "Grader",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "ME502: Invention: Technology Creation, Protection, and Commercialization",
+        "ME526: Simulation of Physical Processes",
+        "ME579: Nano/microelectronic device technology"
+      ]
+    },
+    {
+      "name": "Teaching Fellow",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "PY105: Physics 1 – Department of Physics, Boston University",
+        "PY106: Physics 2 – Department of Physics, Boston University"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Professor Vinod Sarin",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Research Professor (MSE, ME),<br/><i>Boston University College of Engineering</i>"
+    },
+    {
+      "name": "Professor Soumendra N. Basu",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Professor (ME, MSE),<br/>Associate Division Head (MSE),<br/><i>Boston University College of Engineering</i>"
+    }
+  ],
+  "projects": [
+    {
+      "name": "ASM (American Society for Metals) Materials Camps",
+      "summary": "I lead electron microscopy module at the yearly ASM camp to encourage high school students to take up STEM fields. I demonstrate Electron microscopy and other topics in materials science and engineering.",
+      "highlights": ["Electron microscopy"],
+      "startDate": "2022-03",
+      "endDate": "",
+      "url": ""
+    },
+    {
+      "name": "Improving Solid State Synthesis Yield",
+      "summary": "I led Vanadium Oxide preparation project in a group of four, tailored heat treatment strategies, and improved synthesis yield from 20% to over 80%. We reduced the study time from a semester to just three weeks by careful resource management and actively inducing data feedback.",
+      "highlights": ["Solid State"],
+      "startDate": "2017-03",
+      "endDate": "2017-05",
+      "url": ""
+    },
+    {
+      "name": "Thin-film Characterization",
+      "summary": "I carried out literature survey on XRD, Raman Spectroscopy, and surface profilometry to identify given thin-films.",
+      "highlights": ["XRD", "Raman Spectroscopy"],
+      "startDate": "2017-03",
+      "endDate": "2017-03",
+      "url": ""
+    },
+    {
+      "name": "Student Satellite Project",
+      "summary": "I delegated survey tasks to 8 interns at the Dept of Electronics, IIT Guwahati and identified essential elements for building microsatellites. I also held pertinent presentations (online) for 5 regional colleges, instructing nearly 300 students and teachers.",
+      "highlights": ["Microsatellites"],
+      "startDate": "2015-05",
+      "endDate": "2015-09",
+      "url": ""
+    }
+  ]
+}
